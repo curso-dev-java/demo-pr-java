@@ -1,7 +1,7 @@
 # Demo PR Java Project
 
 Colaborador: akobashikawa2023
-
+Colaborador: Hugo Exebio
 This is a demo project for Java that uses Maven as the build tool, JDK 17 for the Java version, and JUnit 5 for testing.
 
 ## Project Structure
